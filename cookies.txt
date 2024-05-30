@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.itch.io	TRUE	/	FALSE	1999999999	itchio_token	WyJzUEY5IiwxNzE2OTk5OTE4LCJMUjBleGw2a2lmN01zdVgiXQ%3d%3d%2eXMxRQZGVHJsUTBSx1hhFRwNj%2fb0%3d
+.itch.io	TRUE	/	FALSE	1999999999	ref%3aregister%3areferrer	http%3a%2f%2fredegogames%2eitch%2eio%2freturngame
+
